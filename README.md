@@ -48,3 +48,5 @@ Output:
 4 8
 4 8
 8 8
+
+pointer都8 bit
